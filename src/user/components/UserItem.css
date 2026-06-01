@@ -59,8 +59,9 @@
     object-fit: cover;
     border-radius: 50%;
 }
-li.user-item .user-item__content.card {
+
+.user-item__content {
     padding: 0;
-    background: transparent;
-    box-shadow: none;
+    background: transparent !important;
+    box-shadow: none !important;
 }

@@ -61,3 +61,8 @@
 li.place-item .place-item__content.card {
     padding: 0;
 }
+.user-item__content {
+    padding: 0;
+    background: transparent !important;
+    box-shadow: none !important;
+}

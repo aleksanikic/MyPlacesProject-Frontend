@@ -7,8 +7,3 @@
   overflow: hidden;
   background: white;
 }
-.user-item__content {
-    padding: 0;
-    background: transparent;
-    box-shadow: none;
-}
