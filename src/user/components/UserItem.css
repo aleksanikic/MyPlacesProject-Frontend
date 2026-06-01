@@ -46,4 +46,16 @@
   
   .user-item__info h3 {
     margin: 0;
-  }
+  } 
+  .user-item__content {
+    padding: 0;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+}
+.user-item__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
