@@ -59,3 +59,8 @@
     object-fit: cover;
     border-radius: 50%;
 }
+li.user-item .user-item__content.card {
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+}
