@@ -20,6 +20,5 @@
   In the terminal, we run the command npm install.<br>
   Add the following variables to your `.env` file:<br>
   REACT_APP_BACKEND_URL=your_backend_url_here<br>
-  REACT_APP_ASSET_URL=your_asset_url_here<br>
   REACT_APP_GOOGLE_API_KEY=your_google_maps_api_key_here<br>
   Then run the [npm run dev] command in the terminal.<br>
